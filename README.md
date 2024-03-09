@@ -1,5 +1,5 @@
 # cumt_2Ddigitalman_Plan
-The 2D Digital Man Project
+The 2D Digital Man Project  
 ##Introduce  
 ###目前使用DCT-Net模型实现对图像的风格转换。重写了WebUI界面。  
 ##Environment  
